@@ -13,7 +13,7 @@ const PiantlyNavbar = () => {
 
   const navLinks = [
     { label: "Features", href: "#features" },
-    { label: "How It Works", hrefpp- z: "#how-it-works" },
+    { label: "How It Works", href: "#how-it-works" },
     { label: "Pricing", href: "#pricing" },
     { label: "About", href: "#about" },
   ];
